@@ -39,7 +39,7 @@ This is the **first project I built as part of my frontend development journey**
 
 ### 📸 Preview
 
-*(Insert screenshot or live demo link here if available)*
+https://incredible-paletas-65e3b5.netlify.app/
 
 ---
 
